@@ -1,8 +1,8 @@
 # Data Analytics & Science Portfolio 📊🧠
 
-¡Bienvenido a mi repositorio centralizado de analítica de datos! En este espacio consolido **24 proyectos prácticos** orientados a resolver problemas de negocio, automatizar insights y construir modelos predictivos utilizando flujos de trabajo de punta a punta.
+¡Bienvenido a mi repositorio centralizado de analítica de datos! En este espacio consolido **Más de 20 proyectos prácticos** (constantemente estoy agregando proyectos nuevos) orientados a resolver problemas de negocio, automatizar insights y construir modelos predictivos utilizando flujos de trabajo de punta a punta.
 
-Cada carpeta contiene el análisis exploratorio de datos (EDA), la preparación de datos (Data Wrangling), las visualizaciones y, donde aplica, el modelado estadístico o de Machine Learning.
+Cada archivo contiene el análisis exploratorio de datos (EDA), la preparación de datos (Data Wrangling), las visualizaciones y, donde aplica, el modelado estadístico o de Machine Learning.
 
 ---
 
